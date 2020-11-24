@@ -1,3 +1,4 @@
+{% include head.html %}
 body,
 html {
   width: 100%;
